@@ -1,0 +1,19 @@
+<templateSet group="Kotlin">
+  <template name="alias" value="typealias $NEW_NAME$ = $ORIGINAL$" description="Typealias" toReformat="false" toShortenFQNames="true">
+    <variable name="NEW_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ORIGINAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="anno" value="annotation class ${NAME}" description="annotation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+      <option name="KOTLIN_COMMENT" value="false" />
+      <option name="KOTLIN_EXPRESSION" value="false" />
+      <option name="KOTLIN_STATEMENT" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Language Injection/注入設定の編集" />
+    <ignoreAction name="Kotlin/波括弧の除去" />
+  </component>
+</application>

@@ -1,0 +1,28 @@
+<templateSet group="other">
+  <template name="sdcon" value="private $CLASS_NAME$ {&#10;}" description="Supress Default Constructor" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="fixedlist" value="Collections.unmodifiableList(Arrays.asList($a$))" description="unmodifiable list from T" toReformat="false" toShortenFQNames="true">
+    <variable name="a" expression="" defaultValue="new Object[0]" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
+      <option name="MAVEN" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="ctor" value="public $CLASS_NAME$() {&#10;}" description="コンストラクタ" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
