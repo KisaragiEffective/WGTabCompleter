@@ -1,2 +1,2 @@
 # WGTabCompleter
-what?! the WorldGuard doesn't have tab completion?!
+Wait a sec... WorldGuard doesn't have tab completion?!
