@@ -1,0 +1,4 @@
+name: WGTabCompleter
+version: ${project.version}
+main: com.github.kisaragieffective.wgtabcompleter.WGTabCompleter
+api-version: 1.13
