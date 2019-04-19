@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="ディレクトリー '...\src\main\java\com\github\unchama\seichiassist [SeichiAssist]'" />
     <option name="defaultScopeName" value="ディレクトリー '...\src\main\java\com\github\unchama\seichiassist [SeichiAssist]'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="ディレクトリー '...\src\main\java\com\github\unchama\seichiassist [SeichiAssist]'" />
   </component>
 </application>
