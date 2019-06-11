@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="選択" />
     <option name="defaultScopeName" value="選択" />
-    <option name="localRegularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="選択" />
   </component>
 </application>
