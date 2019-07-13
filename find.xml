@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="プロジェクトとライブラリー" />
-    <option name="defaultScopeName" value="プロジェクトとライブラリー" />
+    <option name="customScope" value="プロジェクト 'SeichiAssist'" />
+    <option name="defaultScopeName" value="プロジェクト 'SeichiAssist'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="プロジェクトとライブラリー" />
+    <option name="SEARCH_SCOPE" value="プロジェクト 'SeichiAssist'" />
   </component>
 </application>
