@@ -5,6 +5,7 @@
       <mapping ext="7z" type="Native" />
       <mapping pattern="0" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="sb3" type="PLAIN_TEXT" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
     </extensionMap>
