@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="プロジェクト 'SeichiAssist'" />
-    <option name="defaultScopeName" value="プロジェクト 'SeichiAssist'" />
+    <option name="customScope" value="ファイル '...\localDependencies\paper-api-1.12.2-R0.1-20190329.040657-406.jar!\org\bukkit\ChatColor.class [C:\Users\Obsidian550D\Documents\intellij\plugin\external\SeichiAssist\localDependencies\paper-api-1.12.2-R0.1-20190329.040657-406.jar]'" />
+    <option name="defaultScopeName" value="ファイル '...\localDependencies\paper-api-1.12.2-R0.1-20190329.040657-406.jar!\org\bukkit\ChatColor.class [C:\Users\Obsidian550D\Documents\intellij\plugin\external\SeichiAssist\localDependencies\paper-api-1.12.2-R0.1-20190329.040657-406.jar]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="プロジェクト 'SeichiAssist'" />
+    <option name="SEARCH_SCOPE" value="ファイル '...\localDependencies\paper-api-1.12.2-R0.1-20190329.040657-406.jar!\org\bukkit\ChatColor.class [C:\Users\Obsidian550D\Documents\intellij\plugin\external\SeichiAssist\localDependencies\paper-api-1.12.2-R0.1-20190329.040657-406.jar]'" />
   </component>
 </application>
