@@ -6,7 +6,9 @@
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
     <option name="collapseAnonymousClasses" value="true" />
     <option name="collapseInnerClasses" value="true" />
+    <option name="replaceVarWithInferredType" value="true" />
   </component>
 </application>
