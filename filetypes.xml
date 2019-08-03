@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="mcmod.info" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="7z" type="Native" />
       <mapping pattern="0" type="PLAIN_TEXT" />
