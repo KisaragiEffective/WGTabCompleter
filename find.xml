@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="モジュール 'SeichiAssist.main'" />
-    <option name="defaultScopeName" value="モジュール 'SeichiAssist.main'" />
-    <option name="skipResultsWithOneUsage" value="true" />
-    <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="モジュール 'SeichiAssist.main'" />
+    <option name="customScope" value="プロジェクト 'SeichiAssist'" />
+    <option name="defaultScopeName" value="プロジェクト 'SeichiAssist'" />
+    <option name="searchOverloadedMethods" value="true" />
+    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
+    <option name="SEARCH_SCOPE" value="プロジェクト 'SeichiAssist'" />
   </component>
 </application>
