@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="プロジェクト 'SeichiAssist'" />
-    <option name="defaultScopeName" value="プロジェクト 'SeichiAssist'" />
+    <option name="customScope" value="モジュール 'SeichiAssist.main'" />
+    <option name="defaultScopeName" value="モジュール 'SeichiAssist.main'" />
     <option name="localCaseSensitive" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="プロジェクト 'SeichiAssist'" />
+    <option name="SEARCH_SCOPE" value="モジュール 'SeichiAssist.main'" />
   </component>
 </application>
