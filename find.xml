@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="ファイル '...\src\main\java\com\github\unchama\buildassist\listener\PlayerInventoryListener.java [SeichiAssist.main]'" />
     <option name="defaultScopeName" value="ファイル '...\src\main\java\com\github\unchama\buildassist\listener\PlayerInventoryListener.java [SeichiAssist.main]'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="ファイル '...\src\main\java\com\github\unchama\buildassist\listener\PlayerInventoryListener.java [SeichiAssist.main]'" />
   </component>
 </application>
