@@ -54,9 +54,13 @@
           <option name="url" value="https://github.com/KisaragiEffective/kisaragilib.kt" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/GlowstoneMC/Glowstone" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Obsidian550D\Documents\intellij\plugin" />
+    <option name="cloneParentDir" value="C:\Users\Obsidian550D\Documents\intellij" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
