@@ -12,9 +12,11 @@
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="rsa" type="PLAIN_TEXT" />
       <mapping ext="sb3" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
