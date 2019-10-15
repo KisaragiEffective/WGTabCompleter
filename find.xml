@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="プロジェクト 'glowstone'" />
     <option name="defaultScopeName" value="プロジェクト 'glowstone'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="プロジェクト 'glowstone'" />
   </component>
 </application>
