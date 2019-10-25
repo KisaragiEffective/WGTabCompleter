@@ -79,6 +79,7 @@
   <component name="NodeRendererSettings">
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="java.lang.Object" />
       </Renderer>
     </CustomRenderers>
